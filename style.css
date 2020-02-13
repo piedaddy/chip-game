@@ -1,0 +1,111 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+}
+
+body {
+  position: relative;
+  width:100vw;
+  height:100vh;
+}
+
+.score {
+  background-color: rosybrown;
+}
+.amount {
+  color:green;
+}
+
+
+
+.chip {
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  font-size: 2rem;
+  padding:20px;
+  margin:1em;
+  text-align: center;
+  color:white;
+  position: absolute;
+}
+/* }
+.one,
+.two,
+.five {
+  border-radius:50%;
+  width:80px;
+  height:80px;
+  font-size: 2rem;
+  padding:20px;
+  margin:1em;
+  text-align: center;
+  color:white;
+
+}
+
+.one {
+  background-color: orange;
+
+}
+.two {
+  background-color: purple;
+}
+.five {
+  background-color: red;
+}
+
+.first {
+  position: absolute;
+  top:6em;
+  left:13em;
+}
+
+.second {
+  position: absolute;
+  top:5em;
+  left:23em;
+}
+
+.third {
+  position: absolute;
+  top:12em;
+  left:20em;
+
+}
+
+.fourth {
+  position: absolute;
+  top:10em;
+  left:16em;
+}
+
+.fifth {
+  position: absolute;
+  top:6em;
+  left:8em;
+}
+
+.sixth {
+  position: absolute;
+  top:8em;
+  left:30em;
+}
+
+.seventh {
+  position: absolute;
+  top:2em;
+  left:23em;
+}
+
+.eighth {
+  position: absolute;
+  top:3em;
+  left:13em;
+}
+
+.ninth {
+  position: absolute;
+  top:10em;
+  left:13em;
+} */
